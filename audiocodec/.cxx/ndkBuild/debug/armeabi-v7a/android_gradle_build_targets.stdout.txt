@@ -1,0 +1,4 @@
+make: Nothing to be done for 'jni-authenticate'.
+make: Nothing to be done for 'jni-jitterbuffer'.
+make: Nothing to be done for 'jni-opus'.
+make: Nothing to be done for 'jni-sbc'.
